@@ -1,0 +1,11 @@
+{
+  "packages": [  
+    "services/book-store/reference",
+    "services/book-store/products",
+    "services/book-store/reviews",
+    "services/federated-gateway"
+  ],
+  "version": "0.0.0",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
